@@ -1,0 +1,168 @@
+#titles {
+  background-color: #152123;
+}
+h1 {
+  font-family: "Lobster";
+  font-size: 1.5rem;
+  line-height: 3.5;
+  font-weight: 900;
+  padding: 15px;
+
+}
+h2{
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #000000;
+
+}
+h3 {
+  color: #000000;
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+body {
+  font-family: "Montserrat";
+  color: #fff;
+}
+
+.navbar{
+  padding-bottom: 5rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+
+
+
+
+.navbar-brand{
+  font-family: "Parisienne";
+  font-weight: bold;
+
+  font-size: 2.5rem;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat"
+}
+.gym-image{
+  width: 110%;
+  height: auto;
+  position:absolute;
+
+
+}
+#button {
+  height: 50px;
+  margin: 15px;
+}
+.giphys{
+
+  height: 300px;
+
+
+}
+
+
+p {
+  color: #8f8f8f;
+
+}
+#features {
+
+  padding: 1% 1%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+
+
+/* .feature-box { */
+  /* text-aign: center; */
+  /* paddin: 5%; */
+}
+.feature-box {
+  text-align: center;
+  padding: 4%;
+}
+.icon {
+  color: #ef8172;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+
+/* testimonial section */
+#testimonials {
+  background-color: #848484;
+  padding: 7% 15%;
+  text-align: center;
+  color: #fff;
+
+}
+.testimonials-image{
+  width: 35%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.cycling{
+  width: 40%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.Aerobic{
+  width: 45%;
+  border-radius: 80%;
+  margin: 20px;
+}
+#press {
+  background-color: #ef8172;
+  text-align: center;
+
+}
+.press-image{
+  width: 20%;
+  margin: 20px 20px 50px;
+}
+
+/* pricing */
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+.pricing-section {
+  padding: 3% 2%;
+}
+
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 5% 15%;
+}
+
+.cta-heading{
+
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+#footer {
+  padding: 3% 15%;
+  text-align: center;
+
+}
+
+.social-icon{
+  margin: 20px 10px;
+  color: "black";
+}
